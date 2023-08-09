@@ -34,7 +34,7 @@ int main()
 	}
 	if (yon != 1)
 	{
-		printf("无需倒置\n");
+		printf("无需倒置,直接替换！\n");
 	}
 	for (row = size-1; row >= 0; row--)
 	{
